@@ -1,0 +1,1365 @@
+Start Node Label,Start Node Attribute Name,Start Node Attribute Value,Graph Element,Attribute Name,Attribute Value,Relation Name,Relation Attribute Name,Relation Attribute Value,End Node Label,End Node Attribute Name,End Node Attribute Value,Record Tag
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasExamination,,,Examination,name,necrosis in interdental papilla,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasExamination,,,Examination,name,fever,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasExamination,,,Examination,name,poor oral hygiene,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,alcohol abuse,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,living in substandard accommodations,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasExamination,,,Examination,name,ulceration of the tips of the gum tissue between the teeth,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,limited access to potable water,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PastHistory,name,debilitated patients who are under stress,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PastHistory,name,nutritional deficiencies,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PastHistory,name,immunodeficiency,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PastHistory,name,oral candidiasis,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PastHistory,name,human immunodeficiency virus infection,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PastHistory,name,measles,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PastHistory,name,herpes virus infection,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PastHistory,name,chicken pox,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PastHistory,name,malaria,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PastHistory,name,febrile illness,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PastHistory,name,severely compromised children,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PastHistory,name,necrotising gingivitis,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,smoking,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasExamination,,,Examination,name,ulcerations on the dental papillae,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasExamination,,,Examination,name,ulcerations on marginal gingiva,acute necrotizing ulcerative gingivitis
+Symptom,name,halitosis,Attribute,synonym,"fetor oris, foul breath",,,,,,,acute necrotizing ulcerative gingivitis
+Symptom,name,gingival pain,Attribute,synonym,pain in gums,,,,,,,acute necrotizing ulcerative gingivitis
+Attribute,name,acute,Relation,,,hasCategory,,,AttributeCategory,name,onset,acute necrotizing ulcerative gingivitis
+Attribute,name,abrupt,Relation,,,associatedWith,,,Disease,name,acute necrotizing ulcerative gingivitis,acute necrotizing ulcerative gingivitis
+Attribute,name,acute,Relation,,,associatedWith,,,Disease,name,acute necrotizing ulcerative gingivitis,acute necrotizing ulcerative gingivitis
+Symptom,name,gingival pain,Relation,,,hasAttribute,,,Attribute,name,abrupt,acute necrotizing ulcerative gingivitis
+Symptom,name,gingival pain,Relation,,,hasAttribute,,,Attribute,name,acute,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasSymptom,,,Symptom,name,pain while talking,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasSymptom,,,Symptom,name,dysphagia,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasSymptom,,,Symptom,name,excessive salivation,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasSymptom,,,Symptom,name,malaise,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,sleep deprivation,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasSymptom,,,Symptom,name,halitosis,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasSymptom,,,Symptom,name,gingival pain,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasSymptom,,,Symptom,name,gingival pain,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasExamination,,,Examination,name,bright red colour of the gingiva,acute necrotizing ulcerative gingivitis
+Attribute,name,abrupt,Relation,,,hasCategory,,,AttributeCategory,name,onset,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasExamination,,,Examination,name,regional lymphadenopathy,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasExamination,,,Examination,name,ulcerations are covered by a gray pseudomembrane,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasExamination,,,Examination,name,ulcerations with a punched out appearance,acute necrotizing ulcerative gingivitis
+Symptom,name,dysphagia,Attribute,synonym,painful swallowing,,,,,,,acute necrotizing ulcerative gingivitis
+Symptom,name,gingival bleeding,Attribute,synonym,bleeding from gums,,,,,,,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,hasSymptom,,,Symptom,name,gingival bleeding,acute necrotizing ulcerative gingivitis
+Disease,name,acute necrotizing ulcerative gingivitis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,live in close proximity to livestock,acute necrotizing ulcerative gingivitis
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,working in crowded places,covid-19
+Attribute,name,chills,Relation,,,associatedWith,,,Disease,name,covid-19,covid-19
+Symptom,name,vomiting,Relation,,,hasAttribute,,,Attribute,name,1 to 2 days,covid-19
+Symptom,name,nausea,Relation,,,hasAttribute,,,Attribute,name,1 to 2 days,covid-19
+Symptom,name,dyspnea,Relation,,,hasAttribute,,,Attribute,name,5 to 8 days,covid-19
+Symptom,name,sputum production,Relation,,,hasAttribute,,,Attribute,name,bloody,covid-19
+Symptom,name,sputum production,Relation,,,hasAttribute,,,Attribute,name,clear,covid-19
+Symptom,name,cough,Relation,,,hasAttribute,,,Attribute,name,persistent,covid-19
+Symptom,name,cough,Relation,,,hasAttribute,,,Attribute,name,productive,covid-19
+Symptom,name,cough,Relation,,,hasAttribute,,,Attribute,name,dry,covid-19
+Symptom,name,fever,Relation,,,hasAttribute,,,Attribute,name,rigors,covid-19
+Symptom,name,fever,Relation,,,hasAttribute,,,Attribute,name,chills,covid-19
+Attribute,name,rigors,Relation,,,associatedWith,,,Disease,name,covid-19,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,dysgeusia,covid-19
+Attribute,name,dry,Relation,,,associatedWith,,,Disease,name,covid-19,covid-19
+Attribute,name,persistent,Relation,,,associatedWith,,,Disease,name,covid-19,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to italy 14 days prior to symptom onset,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to hong kong 14 days prior to symptom onset,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to south korea 14 days prior to symptom onset,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to japan 14 days prior to symptom onset,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to iran 14 days prior to symptom onset,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,close contact with covid-19 case in the 14 days prior to symptom onset,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,close contact with covid-19 case,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,living facility resident,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,living in prison,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,living in crowded places,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to china 14 days prior to symptom onset,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,hospital worker,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,eating bats,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,veterinarian,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,working in wet market 14 days prior to symptom onset,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,residents in affected area,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to affected area,covid-19
+Disease,name,covid-19,Relation,,,hasExamination,,,Examination,name,fever,covid-19
+Disease,name,covid-19,Relation,,,hasExamination,,,Examination,name,bronchial breath sounds,covid-19
+Disease,name,covid-19,Relation,,,hasExamination,,,Examination,name,tachypnoea,covid-19
+Disease,name,covid-19,Relation,,,hasExamination,,,Examination,name,tachycardia,covid-19
+Disease,name,covid-19,Relation,,,hasExamination,,,Examination,name,cyanosis,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PersonalAndSocialHistory,name,eating raw meats,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,FamilyHistory,name,covid-19 case in last 14 days,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,DrugHistory,name,corticosteroid,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PastHistory,name,immunocompromised,covid-19
+Attribute,name,clear,Relation,,,associatedWith,,,Disease,name,covid-19,covid-19
+Attribute,name,bloody,Relation,,,associatedWith,,,Disease,name,covid-19,covid-19
+Attribute,name,5 to 8 days,Relation,,,associatedWith,,,Disease,name,covid-19,covid-19
+Attribute,name,1 to 2 days,Relation,,,associatedWith,,,Disease,name,covid-19,covid-19
+Attribute,name,1 to 2 days,Relation,,,associatedWith,,,Disease,name,covid-19,covid-19
+Attribute,name,chills,Relation,,,hasCategory,,,AttributeCategory,name,associated with,covid-19
+Attribute,name,rigors,Relation,,,hasCategory,,,AttributeCategory,name,associated with,covid-19
+Attribute,name,dry,Relation,,,hasCategory,,,AttributeCategory,name,quality,covid-19
+Attribute,name,productive,Relation,,,hasCategory,,,AttributeCategory,name,quality,covid-19
+Attribute,name,persistent,Relation,,,hasCategory,,,AttributeCategory,name,duration,covid-19
+Attribute,name,clear,Relation,,,hasCategory,,,AttributeCategory,name,quality,covid-19
+Attribute,name,bloody,Relation,,,hasCategory,,,AttributeCategory,name,quality,covid-19
+Attribute,name,5 to 8 days,Relation,,,hasCategory,,,AttributeCategory,name,duration,covid-19
+Attribute,name,1 to 2 days,Relation,,,hasCategory,,,AttributeCategory,name,duration,covid-19
+Attribute,name,1 to 2 days,Relation,,,hasCategory,,,AttributeCategory,name,duration,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PastHistory,name,hypertension,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PastHistory,name,hypertension,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PastHistory,name,diabetes mellitus,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PastHistory,name,cardiovascular disease,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PastHistory,name,chronic heart disease,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PastHistory,name,chronic respiratory disease,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PastHistory,name,asthma,covid-19
+Disease,name,covid-19,Relation,,,historyOf,,,PastHistory,name,cancer,covid-19
+Attribute,name,productive,Relation,,,associatedWith,,,Disease,name,covid-19,covid-19
+Disease,name,covid-19,Relation,,,hasExamination,,,Examination,name,crackles on auscultation,covid-19
+Disease,name,covid-19,Relation,,,hasExamination,,,Examination,name,rales on auscultation,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,nausea,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,sore throat,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,headache,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,myalgia,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,arthralgia,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,chills,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,vomiting,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,nasal congestion,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,hemoptysis,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,malaise,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,dyspnea,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,anorexia,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,confusion,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,dizziness,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,headache,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,rhinorrhea,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,chest pain,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,abdominal pain,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,dyspnoea,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,anosmia,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,ageusia,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,conjunctival congestion,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,sputum production,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,dyspnea,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,fatigue,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,fever,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,fever,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,cough,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,cough,covid-19
+Symptom,name,sputum production,Attribute,synonym,hemoptysis,,,,,,,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,sputum production,covid-19
+Symptom,name,arthralgia,Attribute,synonym,joint pain,,,,,,,covid-19
+Symptom,name,conjunctival congestion,Attribute,synonym,"bloodshot eyes, conjunctival congestion",,,,,,,covid-19
+Symptom,name,fatigue,Attribute,synonym,tired,,,,,,,covid-19
+Symptom,name,anosmia,Attribute,synonym,altered sense of smell,,,,,,,covid-19
+Symptom,name,dyspnea,Attribute,synonym,difficulty breathing,,,,,,,covid-19
+Symptom,name,malaise,Attribute,synonym,feeling unwell,,,,,,,covid-19
+Symptom,name,myalgia,Attribute,synonym,"muscle pain, muscle ache",,,,,,,covid-19
+Symptom,name,nasal congestion,Attribute,synonym,nasal congestion,,,,,,,covid-19
+Symptom,name,ageusia,Attribute,synonym,altered taste,,,,,,,covid-19
+Disease,name,covid-19,Relation,,,hasSymptom,,,Symptom,name,cough,covid-19
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,hematemesis,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,abnormal vaginal bleeding,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,gingival bleeding,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,melena,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,seizures,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,cough,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,vomiting,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,sore throat,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,epistaxis,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,dyspnea,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,dry mouth,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,oliguria,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,prolonged bleeding from a venipuncture site,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,abnormal vaginal bleeding,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,melena,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,febrile seizures,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,retro orbital pain,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,hematemesis,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,gingival bleeding,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,epistaxis,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,retro orbital pain,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,abdominal pain,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,anorexia,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,myalgia,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,bone pain,dengue fever/dengue hemorrhagic fever
+Symptom,name,retro orbital pain,Relation,,,hasAttribute,,,Attribute,name,little pressure applied to the eyeball,dengue fever/dengue hemorrhagic fever
+Symptom,name,retro orbital pain,Relation,,,hasAttribute,,,Attribute,name,eye movement,dengue fever/dengue hemorrhagic fever
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,forehead,dengue fever/dengue hemorrhagic fever
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,persistent,dengue fever/dengue hemorrhagic fever
+Symptom,name,vomiting,Relation,,,hasAttribute,,,Attribute,name,persistent,dengue fever/dengue hemorrhagic fever
+Symptom,name,abdominal pain,Relation,,,hasAttribute,,,Attribute,name,severe,dengue fever/dengue hemorrhagic fever
+Symptom,name,retro orbital pain,Relation,,,hasAttribute,,,Attribute,name,severe,dengue fever/dengue hemorrhagic fever
+Symptom,name,retro orbital pain,Relation,,,hasAttribute,,,Attribute,name,applying pressure to eye,dengue fever/dengue hemorrhagic fever
+Symptom,name,retro orbital pain,Relation,,,hasAttribute,,,Attribute,name,eye movement,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,right lower quadrant abdominal pain,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,right upper quadrant abdominal pain,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,diarrhoea,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,chest discomfort,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,"fatigue, tiredness, lethargy",dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,fatigue,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,abnormal vaginal bleeding,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,restlessness,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,confusion,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,fatigue,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,restlessness,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,fatigue,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,impaired taste,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,aches and pains in body,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,dizziness,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,lethargy,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,dizziness on standing up,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,dark urine,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,oliguria,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,dry tongue,dengue fever/dengue hemorrhagic fever
+Symptom,name,diarrhoea,Relation,,,hasAttribute,,,Attribute,name,watery,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,malaise,dengue fever/dengue hemorrhagic fever
+Attribute,name,eye movement,Relation,,,associatedWith,,,Disease,name,dengue fever/dengue hemorrhagic fever,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,anorexia,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,back pain,dengue fever/dengue hemorrhagic fever
+Attribute,name,forehead,Relation,,,hasCategory,,,AttributeCategory,name,location,dengue fever/dengue hemorrhagic fever
+Attribute,name,persistent,Relation,,,hasCategory,,,AttributeCategory,name,frequency,dengue fever/dengue hemorrhagic fever
+Attribute,name,persistent,Relation,,,hasCategory,,,AttributeCategory,name,duration,dengue fever/dengue hemorrhagic fever
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,dengue fever/dengue hemorrhagic fever
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,dengue fever/dengue hemorrhagic fever
+Attribute,name,applying pressure to eye,Relation,,,hasCategory,,,AttributeCategory,name,aggravated by,dengue fever/dengue hemorrhagic fever
+Attribute,name,eye movement,Relation,,,hasCategory,,,AttributeCategory,name,aggravated by,dengue fever/dengue hemorrhagic fever
+Attribute,name,watery,Relation,,,associatedWith,,,Disease,name,dengue fever/dengue hemorrhagic fever,dengue fever/dengue hemorrhagic fever
+Attribute,name,little pressure applied to the eyeball,Relation,,,associatedWith,,,Disease,name,dengue fever/dengue hemorrhagic fever,dengue fever/dengue hemorrhagic fever
+Attribute,name,eye movement,Relation,,,associatedWith,,,Disease,name,dengue fever/dengue hemorrhagic fever,dengue fever/dengue hemorrhagic fever
+Attribute,name,forehead,Relation,,,associatedWith,,,Disease,name,dengue fever/dengue hemorrhagic fever,dengue fever/dengue hemorrhagic fever
+Attribute,name,persistent,Relation,,,associatedWith,,,Disease,name,dengue fever/dengue hemorrhagic fever,dengue fever/dengue hemorrhagic fever
+Attribute,name,persistent,Relation,,,associatedWith,,,Disease,name,dengue fever/dengue hemorrhagic fever,dengue fever/dengue hemorrhagic fever
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,dengue fever/dengue hemorrhagic fever,dengue fever/dengue hemorrhagic fever
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,dengue fever/dengue hemorrhagic fever,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,arthralgia,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,headache,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,headache,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,retro orbital pain,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,retro orbital pain,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,pleuritic chest pain,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,dyspnea,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,cough,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,anorexia,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,nausea,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,vomiting,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,epigastric pain,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,epigastric discomfort,dengue fever/dengue hemorrhagic fever
+Attribute,name,applying pressure to eye,Relation,,,associatedWith,,,Disease,name,dengue fever/dengue hemorrhagic fever,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,feeling of impending fainting,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PastHistory,name,glucose-6-phosphate dehydrogenase,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasSymptom,,,Symptom,name,retro orbital pain,dengue fever/dengue hemorrhagic fever
+Attribute,name,watery,Relation,,,hasCategory,,,AttributeCategory,name,quality,dengue fever/dengue hemorrhagic fever
+Attribute,name,little pressure applied to the eyeball,Relation,,,hasCategory,,,AttributeCategory,name,triggered by,dengue fever/dengue hemorrhagic fever
+Attribute,name,eye movement,Relation,,,hasCategory,,,AttributeCategory,name,triggered by,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel from tropical regions within the past 2 weeks,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel from dengue-endemic region within the past 2 weeks,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,obesity,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,fever sudden in onsethigh spikes 5 to 7 days in duration,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,fever sudden in onsetlow grade 5 to 7 days in duration,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,fever sudden in onsetremittent pattern 5 to 7 days in duration,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,fever sudden in onsetbiphasic 5 to 7 days in duration,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,"maculopapular involving the whole body, on the third and fourth day of the fever",dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,"rubelliform rash involving the whole body, on the third and fourth day of the fever",dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,cold clammy skin,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,rapid and weak pulse,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,capillary refill time >3 seconds,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PastHistory,name,pregnancy,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,severe abdominal tenderness,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PastHistory,name,chronic renal failure,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PastHistory,name,ischaemic heart disease,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to tropical regions within the past 2 weeks,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel in dengue-endemic region in past 2 weeks,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,residence in dengue-endemic region in past 2 weeks,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,living with uncovered water container,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,lab worker,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to infected blood products,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,DrugHistory,name,non-steroidal anti-inflammatory drugs,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,DrugHistory,name,corticosteroid use,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PastHistory,name,hypertension,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PastHistory,name,diabetes mellitus,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PastHistory,name,hemoglobinopathies,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PastHistory,name,peptic ulcer disease,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PastHistory,name,hypotension,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PastHistory,name,bronchial asthma,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PastHistory,name,respiratory disease,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PastHistory,name,stroke,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,fever abrupt onset 39.4°c to 40.5°c biphasic remittent pattern low grade,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,historyOf,,,PastHistory,name,liver cirrhosis,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,edema,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,hepatomegaly,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,pleural effusion,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,ascites,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,purpura at injection sites,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,petechiae at injection sites,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,ecchymoses at injection sites,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,hypothermia,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,ascites,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,altered levels of consciousness,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,asterixis,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,bradycardia,dengue fever/dengue hemorrhagic fever
+Symptom,name,lethargy,Attribute,synonym,weaknesslack of energy,,,,,,,dengue fever/dengue hemorrhagic fever
+Symptom,name,malaise,Attribute,synonym,feeling unwell,,,,,,,dengue fever/dengue hemorrhagic fever
+Symptom,name,melena,Attribute,synonym,melena,,,,,,,dengue fever/dengue hemorrhagic fever
+Symptom,name,anorexia,Attribute,synonym,"anorexia, reduced appetite",,,,,,,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,delirium in children,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,jaundice,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,abdominal distension,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,fever,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,liver tenderness on palpation,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,skin flushing with islands of normal skin in patient,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,skin flushing blanches when affected skin is pressed,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,maculopapular rash on the whole body,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,rubelliform rash involving the whole body,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,fading rash with pallid areas,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,petechiae,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,purpura,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,positive tourniquet test.,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,"diffuse skin flushing of the face, neck and chest",dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,postural hypotension,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,delayed capillary refill,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,tachycardia,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,tachypnoea,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,abdominal tenderness,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,liver enlargement >2 cm,dengue fever/dengue hemorrhagic fever
+Disease,name,dengue fever/dengue hemorrhagic fever,Relation,,,hasExamination,,,Examination,name,dry mucous membranes,dengue fever/dengue hemorrhagic fever
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,ehrlichiosis and anaplasmosis
+Attribute,name,abrupt,Relation,,,hasCategory,,,AttributeCategory,name,onset,ehrlichiosis and anaplasmosis
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,ehrlichiosis and anaplasmosis
+Attribute,name,abrupt,Relation,,,hasCategory,,,AttributeCategory,name,onset,ehrlichiosis and anaplasmosis
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,ehrlichiosis and anaplasmosis
+Attribute,name,abrupt,Relation,,,hasCategory,,,AttributeCategory,name,onset,ehrlichiosis and anaplasmosis
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,ehrlichiosis and anaplasmosis
+Attribute,name,abrupt,Relation,,,hasCategory,,,AttributeCategory,name,onset,ehrlichiosis and anaplasmosis
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,ehrlichiosis and anaplasmosis,ehrlichiosis and anaplasmosis
+Attribute,name,fever,Relation,,,hasCategory,,,AttributeCategory,name,associated with,ehrlichiosis and anaplasmosis
+Attribute,name,abrupt,Relation,,,associatedWith,,,Disease,name,ehrlichiosis and anaplasmosis,ehrlichiosis and anaplasmosis
+Attribute,name,abrupt,Relation,,,associatedWith,,,Disease,name,ehrlichiosis and anaplasmosis,ehrlichiosis and anaplasmosis
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,ehrlichiosis and anaplasmosis,ehrlichiosis and anaplasmosis
+Attribute,name,abrupt,Relation,,,associatedWith,,,Disease,name,ehrlichiosis and anaplasmosis,ehrlichiosis and anaplasmosis
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,ehrlichiosis and anaplasmosis,ehrlichiosis and anaplasmosis
+Attribute,name,abrupt,Relation,,,associatedWith,,,Disease,name,ehrlichiosis and anaplasmosis,ehrlichiosis and anaplasmosis
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,ehrlichiosis and anaplasmosis
+Attribute,name,abrupt,Relation,,,hasCategory,,,AttributeCategory,name,onset,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,small round erythematous lesion on the skin,ehrlichiosis and anaplasmosis
+Attribute,name,abrupt,Relation,,,hasCategory,,,AttributeCategory,name,onset,ehrlichiosis and anaplasmosis
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,ehrlichiosis and anaplasmosis,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,small round erythematous lesion with a small necrotic dark centre on the skin,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,splenomegaly,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,hepatomegaly,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,jaundice,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,lymphadenopathy,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,coma,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,stupor,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,maculopapular rash,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,macular rash,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,a small round erythematous skin lesion,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,a small round erythematous skin lesion with necrotic dark centre,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,feversudden onsetwith rigorslasts for 10 to 14 days without treatment,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,outdoor activities,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to ticks,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,tick bite,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,historyOf,,,PastHistory,name,immunosuppressive state,ehrlichiosis and anaplasmosis
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,ehrlichiosis and anaplasmosis
+Attribute,name,abrupt,Relation,,,associatedWith,,,Disease,name,ehrlichiosis and anaplasmosis,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasExamination,,,Examination,name,petechial rash,ehrlichiosis and anaplasmosis
+Attribute,name,abrupt,Relation,,,associatedWith,,,Disease,name,ehrlichiosis and anaplasmosis,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,abdominal pain,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,diarrhoea,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,vomiting,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,vomiting,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,vomiting,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,nausea,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,nausea,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,cough,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,arthralgia,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,myalgia,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,myalgia,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,malaise,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,malaise,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,headache,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,headache,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,rigors,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,arthralgia,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,dyspnea,ehrlichiosis and anaplasmosis
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,ehrlichiosis and anaplasmosis,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,confusion,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,neck stiffness,ehrlichiosis and anaplasmosis
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,ehrlichiosis and anaplasmosis,ehrlichiosis and anaplasmosis
+Attribute,name,fever,Relation,,,associatedWith,,,Disease,name,ehrlichiosis and anaplasmosis,ehrlichiosis and anaplasmosis
+Symptom,name,vomiting,Relation,,,hasAttribute,,,Attribute,name,abrupt,ehrlichiosis and anaplasmosis
+Symptom,name,vomiting,Relation,,,hasAttribute,,,Attribute,name,severe,ehrlichiosis and anaplasmosis
+Symptom,name,nausea,Relation,,,hasAttribute,,,Attribute,name,severe,ehrlichiosis and anaplasmosis
+Symptom,name,arthralgia,Relation,,,hasAttribute,,,Attribute,name,abrupt,ehrlichiosis and anaplasmosis
+Symptom,name,arthralgia,Relation,,,hasAttribute,,,Attribute,name,severe,ehrlichiosis and anaplasmosis
+Symptom,name,nausea,Relation,,,hasAttribute,,,Attribute,name,abrupt,ehrlichiosis and anaplasmosis
+Symptom,name,myalgia,Relation,,,hasAttribute,,,Attribute,name,severe,ehrlichiosis and anaplasmosis
+Symptom,name,malaise,Relation,,,hasAttribute,,,Attribute,name,abrupt,ehrlichiosis and anaplasmosis
+Symptom,name,malaise,Relation,,,hasAttribute,,,Attribute,name,severe,ehrlichiosis and anaplasmosis
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,abrupt,ehrlichiosis and anaplasmosis
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,severe,ehrlichiosis and anaplasmosis
+Symptom,name,rigors,Relation,,,hasAttribute,,,Attribute,name,fever,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,seizures,ehrlichiosis and anaplasmosis
+Symptom,name,myalgia,Relation,,,hasAttribute,,,Attribute,name,abrupt,ehrlichiosis and anaplasmosis
+Disease,name,ehrlichiosis and anaplasmosis,Relation,,,hasSymptom,,,Symptom,name,photophobia,ehrlichiosis and anaplasmosis
+Attribute,name,epigastric region,Relation,,,associatedWith,,,Disease,name,epidemic pleurodynia,epidemic pleurodynia
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,epidemic pleurodynia
+Attribute,name,sharp,Relation,,,hasCategory,,,AttributeCategory,name,quality,epidemic pleurodynia
+Attribute,name,subsides in 2 to 4 days,Relation,,,associatedWith,,,Disease,name,epidemic pleurodynia,epidemic pleurodynia
+Attribute,name,2 to 4 days,Relation,,,associatedWith,,,Disease,name,epidemic pleurodynia,epidemic pleurodynia
+Attribute,name,subsides in 2 to 4 days,Relation,,,associatedWith,,,Disease,name,epidemic pleurodynia,epidemic pleurodynia
+Attribute,name,lower anterior chest,Relation,,,associatedWith,,,Disease,name,epidemic pleurodynia,epidemic pleurodynia
+Attribute,name,frequent,Relation,,,hasCategory,,,AttributeCategory,name,frequency,epidemic pleurodynia
+Attribute,name,subsides in 2 to 4 days,Relation,,,associatedWith,,,Disease,name,epidemic pleurodynia,epidemic pleurodynia
+Attribute,name,intermittent,Relation,,,hasCategory,,,AttributeCategory,name,frequency,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,hasExamination,,,Examination,name,feversubsides in 2 to 4 days,epidemic pleurodynia
+Attribute,name,2 to 4 days,Relation,,,hasCategory,,,AttributeCategory,name,duration,epidemic pleurodynia
+Attribute,name,abdomen,Relation,,,hasCategory,,,AttributeCategory,name,location,epidemic pleurodynia
+Attribute,name,lower anterior chest,Relation,,,hasCategory,,,AttributeCategory,name,location,epidemic pleurodynia
+Attribute,name,subsides in 2 to 4 days,Relation,,,hasCategory,,,AttributeCategory,name,duration,epidemic pleurodynia
+Attribute,name,subsides in 2 to 4 days,Relation,,,hasCategory,,,AttributeCategory,name,duration,epidemic pleurodynia
+Attribute,name,subsides in 2 to 4 days,Relation,,,hasCategory,,,AttributeCategory,name,duration,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,historyOf,,,PersonalAndSocialHistory,name,sharing drink containers,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,historyOf,,,PersonalAndSocialHistory,name,laboratory personnel,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,hasExamination,,,Examination,name,truncal muscles swollen and tender,epidemic pleurodynia
+Attribute,name,intermittent,Relation,,,associatedWith,,,Disease,name,epidemic pleurodynia,epidemic pleurodynia
+Attribute,name,epigastric region,Relation,,,hasCategory,,,AttributeCategory,name,location,epidemic pleurodynia
+Attribute,name,frequent,Relation,,,associatedWith,,,Disease,name,epidemic pleurodynia,epidemic pleurodynia
+Attribute,name,abdomen,Relation,,,associatedWith,,,Disease,name,epidemic pleurodynia,epidemic pleurodynia
+Attribute,name,sharp,Relation,,,associatedWith,,,Disease,name,epidemic pleurodynia,epidemic pleurodynia
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,epidemic pleurodynia,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,hasSymptom,,,Symptom,name,pain,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,hasSymptom,,,Symptom,name,pain,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,hasSymptom,,,Symptom,name,pain,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,hasSymptom,,,Symptom,name,pain,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,hasSymptom,,,Symptom,name,pain,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,hasSymptom,,,Symptom,name,pain,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,hasSymptom,,,Symptom,name,pain,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,hasSymptom,,,Symptom,name,headache,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,hasSymptom,,,Symptom,name,sore throat,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,hasSymptom,,,Symptom,name,malaise,epidemic pleurodynia
+Disease,name,epidemic pleurodynia,Relation,,,hasSymptom,,,Symptom,name,pain,epidemic pleurodynia
+Symptom,name,pain,Relation,,,hasAttribute,,,Attribute,name,severe,epidemic pleurodynia
+Symptom,name,pain,Relation,,,hasAttribute,,,Attribute,name,frequent,epidemic pleurodynia
+Symptom,name,pain,Relation,,,hasAttribute,,,Attribute,name,intermittent,epidemic pleurodynia
+Symptom,name,pain,Relation,,,hasAttribute,,,Attribute,name,epigastric region,epidemic pleurodynia
+Symptom,name,pain,Relation,,,hasAttribute,,,Attribute,name,2 to 4 days,epidemic pleurodynia
+Symptom,name,pain,Relation,,,hasAttribute,,,Attribute,name,abdomen,epidemic pleurodynia
+Symptom,name,pain,Relation,,,hasAttribute,,,Attribute,name,lower anterior chest,epidemic pleurodynia
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,subsides in 2 to 4 days,epidemic pleurodynia
+Symptom,name,sore throat,Relation,,,hasAttribute,,,Attribute,name,subsides in 2 to 4 days,epidemic pleurodynia
+Symptom,name,malaise,Relation,,,hasAttribute,,,Attribute,name,subsides in 2 to 4 days,epidemic pleurodynia
+Symptom,name,pain,Relation,,,hasAttribute,,,Attribute,name,sharp,epidemic pleurodynia
+Attribute,name,intractable,Relation,,,hasCategory,,,AttributeCategory,name,quality,epidemic typhus
+Attribute,name,sudden,Relation,,,hasCategory,,,AttributeCategory,name,onset,epidemic typhus
+Attribute,name,rash,Relation,,,associatedWith,,,Disease,name,epidemic typhus,epidemic typhus
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,rash,epidemic typhus
+Attribute,name,generalized,Relation,,,associatedWith,,,Disease,name,epidemic typhus,epidemic typhus
+Attribute,name,intractable,Relation,,,associatedWith,,,Disease,name,epidemic typhus,epidemic typhus
+Attribute,name,sudden,Relation,,,associatedWith,,,Disease,name,epidemic typhus,epidemic typhus
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,intense,epidemic typhus
+Attribute,name,intense,Relation,,,associatedWith,,,Disease,name,epidemic typhus,epidemic typhus
+Attribute,name,generalized,Relation,,,hasCategory,,,AttributeCategory,name,location,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasExamination,,,Examination,name,sudden fevergradual in onsethigh grade with slight morning remissionlasts for about 2 weeks,epidemic typhus
+Attribute,name,rash,Relation,,,hasCategory,,,AttributeCategory,name,associated with,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,contact with flying squirrels,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,contact with human body louse,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasExamination,,,Examination,name,gangrene,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasExamination,,,Examination,name,ecchymosis,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasExamination,,,Examination,name,weak pulses,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasExamination,,,Examination,name,pale blue skin,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasExamination,,,Examination,name,cold extremities,epidemic typhus
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,generalized,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasExamination,,,Examination,name,hypotension,epidemic typhus
+Attribute,name,intense,Relation,,,hasCategory,,,AttributeCategory,name,severity,epidemic typhus
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,intractable,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasSymptom,,,Symptom,name,headache,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasSymptom,,,Symptom,name,sputum production,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasExamination,,,Examination,name,splenomegaly,epidemic typhus
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,sudden,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasSymptom,,,Symptom,name,headache,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasSymptom,,,Symptom,name,headache,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasSymptom,,,Symptom,name,headache,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasExamination,,,Examination,name,"rashsmall, pink macules,rash appears on the 4th to 6th day of fever rash becomes dark and maculopapular,petechial and hemorrhagicrash in the axillae and on the upper trunk rash sparing the palms, soles, and face",epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasSymptom,,,Symptom,name,sudden prostration,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasSymptom,,,Symptom,name,oliguria,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasSymptom,,,Symptom,name,seizures,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasSymptom,,,Symptom,name,chest pain,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasSymptom,,,Symptom,name,tachypnea,epidemic typhus
+Disease,name,epidemic typhus,Relation,,,hasSymptom,,,Symptom,name,headache,epidemic typhus
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,dysuria,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,pelvic pain,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,vaginal discharge,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,odourless mucus discharge from vagina,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,intermenstrual bleeding,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,postcoital bleeding,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,nausea,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,vomiting,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,myalgia,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,abnormal vaginal bleeding,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,scrotal pain,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,swelling over the epididymis,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,abdominal pain,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,historyOf,,,PersonalAndSocialHistory,name,low socioeconomic status,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,a cloudy discharge at cervical os,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,a yellow discharge at cervical os,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,mucopurulent cervical discharge,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,friable cervix,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,cervix bleeds easily with friction from a dacron swab,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,mucoid discharge from the urethral opening,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,mucopurulent discharge from the urethral opening,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,penile discharge,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,discharge appears after applying pressure along the penile shaft,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,fever,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,scrotal area may be tender to touch and feels warm,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,mucopurulent rectal discharge,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,scrotal erythema,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,tenderness over the epididymis,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasExamination,,,Examination,name,arthritis,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,chills,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,historyOf,,,PersonalAndSocialHistory,name,black ethnicity,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,abdominal pain,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,historyOf,,,PersonalAndSocialHistory,name,urban residence,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,historyOf,,,PersonalAndSocialHistory,name,sexual activity with a person who has a chlamydia infection,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,feeling of incomplete defecation,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,urethral discharge,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,testicular pain,genital tract chlamydia
+Symptom,name,abdominal pain,Relation,,,hasAttribute,,,Attribute,name,right upper quadrant,genital tract chlamydia
+Symptom,name,urethral discharge,Relation,,,hasAttribute,,,Attribute,name,clear to whitish,genital tract chlamydia
+Symptom,name,testicular pain,Relation,,,hasAttribute,,,Attribute,name,unilateral,genital tract chlamydia
+Attribute,name,right upper quadrant,Relation,,,associatedWith,,,Disease,name,genital tract chlamydia,genital tract chlamydia
+Attribute,name,clear to whitish,Relation,,,associatedWith,,,Disease,name,genital tract chlamydia,genital tract chlamydia
+Attribute,name,unilateral,Relation,,,associatedWith,,,Disease,name,genital tract chlamydia,genital tract chlamydia
+Attribute,name,right upper quadrant,Relation,,,hasCategory,,,AttributeCategory,name,location,genital tract chlamydia
+Attribute,name,clear to whitish,Relation,,,hasCategory,,,AttributeCategory,name,quality,genital tract chlamydia
+Attribute,name,unilateral,Relation,,,hasCategory,,,AttributeCategory,name,distribution,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,historyOf,,,PastHistory,name,sexually transmitted disease,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,historyOf,,,PersonalAndSocialHistory,name,sexually active,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,historyOf,,,PersonalAndSocialHistory,name,new sex partner,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,historyOf,,,PersonalAndSocialHistory,name,multiple sex partners,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,historyOf,,,PersonalAndSocialHistory,name,sex partner with other concurrent sex partners,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,historyOf,,,PersonalAndSocialHistory,name,unprotected sex,genital tract chlamydia
+Disease,name,genital tract chlamydia,Relation,,,hasSymptom,,,Symptom,name,rigors,genital tract chlamydia
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered papules on lips,hand-foot-and-mouth disease
+Attribute,name,pustules,Relation,,,hasCategory,,,AttributeCategory,name,associated with,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,linear grey-white vesicopustules on palms and soles,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,flaccid and thin-walled vesicles with erythematous halo on palms and soles,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,painful flaccid and thin-walled vesicles with erythematous halo on palms and soles,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,pruritic flaccid and thin-walled vesicles with erythematous halo on palms and soles,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,vesicles tend to ulcerate and become crusted.,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,maculopapular rash on the buttocks,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,papular rash with petechiae,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,small oval vesico pustules on palms and soles,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,diffuse areas of erythema on the trunk,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,high grade fever,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,maculopapular rash may be seen on the buttocks,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,ulcerated lesions on hands and feet,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,crusted lesions on hands and feet,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,small oval grey-white vesico pustules on hands and feet flaccid and thin-walledwith an erythematous halo,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,vesicles on hands and feet,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,rash on hands and feet,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,diffuse areas of erythema on the limbs,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,acral rash involving the soles,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,acral rash involving the palms,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered ulcers on an erythematous base on lips,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered vesicles on tongue,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered ulcers on an erythematous base on tongue,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered papules on pharynx,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered macules on pharynx,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered vesicles on pharynx,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered ulcers on an erythematous base on pharynx,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered papules on buccal mucosa,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered macules on buccal mucosa,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered vesicles on buccal mucosa,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered ulcers on an erythematous base on buccal mucosa,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered papules on gingiva,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered macules on gingiva,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered vesicles on gingiva,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered ulcers on an erythematous base on gingiva,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,erythema and edema of the tongue,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered macules on lips,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered vesicles on lips,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,yellowish ulcers on an erythematous base on lips,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,yellowish ulcers on an erythematous base on gingiva,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,yellowish ulcers on an erythematous base on buccal mucosa,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,yellowish ulcers on an erythematous base on pharynx,hand-foot-and-mouth disease
+Symptom,name,pain,Relation,,,hasAttribute,,,Attribute,name,pustules,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,vomiting,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,irritability,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,headache,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,arthralgia,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,cough,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,diarrhoea,hand-foot-and-mouth disease
+Symptom,name,pain,Relation,,,hasAttribute,,,Attribute,name,small blisters,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,abdominal pain,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,anorexia,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,sore mouth,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,malaise,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,pruritus,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,pruritus,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,pain,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,pain,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasSymptom,,,Symptom,name,sore throat,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered macules on tongue,hand-foot-and-mouth disease
+Symptom,name,pruritus,Relation,,,hasAttribute,,,Attribute,name,pustules,hand-foot-and-mouth disease
+Attribute,name,pustules,Relation,,,associatedWith,,,Disease,name,hand-foot-and-mouth disease,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,yellowish ulcers on an erythematous base on the tongue,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,vesicles in oropharynx,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,macules in oropharynx,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,papules in oropharynx,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,oropharynx is inflamed,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,oral ulcers,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,oral vesicles,hand-foot-and-mouth disease
+Symptom,name,pruritus,Relation,,,hasAttribute,,,Attribute,name,small blisters,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,low-grade fever <101.3°fsudden onset,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,historyOf,,,PersonalAndSocialHistory,name,family contact with infected people,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,historyOf,,,PastHistory,name,immunosuppressive state,hand-foot-and-mouth disease
+Attribute,name,small blisters,Relation,,,hasCategory,,,AttributeCategory,name,associated with,hand-foot-and-mouth disease
+Attribute,name,small blisters,Relation,,,hasCategory,,,AttributeCategory,name,associated with,hand-foot-and-mouth disease
+Attribute,name,pustules,Relation,,,hasCategory,,,AttributeCategory,name,associated with,hand-foot-and-mouth disease
+Attribute,name,small blisters,Relation,,,associatedWith,,,Disease,name,hand-foot-and-mouth disease,hand-foot-and-mouth disease
+Attribute,name,pustules,Relation,,,associatedWith,,,Disease,name,hand-foot-and-mouth disease,hand-foot-and-mouth disease
+Attribute,name,small blisters,Relation,,,associatedWith,,,Disease,name,hand-foot-and-mouth disease,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,historyOf,,,PersonalAndSocialHistory,name,school contact with infected people,hand-foot-and-mouth disease
+Disease,name,hand-foot-and-mouth disease,Relation,,,hasExamination,,,Examination,name,scattered papules on tongue,hand-foot-and-mouth disease
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,shallow ulcers on tonsillar pillars,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,grayish papules with erythematous base on soft palate,herpangina
+Disease,name,herpangina,Relation,,,hasSymptom,,,Symptom,name,sore throat,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,shallow ulcers on on tongue,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,vesicles with erythematous base on soft palate,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,shallow ulcers on on uvula,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,vesicles with erythematous base on uvula,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,grayish papules with erythematous base on uvula,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,shallow ulcers on tonsils,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,vesicles with erythematous base on tonsils,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,grayish papules with erythematous base on tonsils,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,shallow ulcers on soft palate,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,vesicles with erythematous base on tongue.,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,grayish papules with erythematous base on tongue.,herpangina
+Disease,name,herpangina,Relation,,,hasSymptom,,,Symptom,name,headache,herpangina
+Disease,name,herpangina,Relation,,,hasSymptom,,,Symptom,name,anorexia,herpangina
+Disease,name,herpangina,Relation,,,hasSymptom,,,Symptom,name,neck pain,herpangina
+Disease,name,herpangina,Relation,,,hasSymptom,,,Symptom,name,vomiting,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,sudden onset of fever,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,grayish papules with erythematous base on tonsillar pillars,herpangina
+Disease,name,herpangina,Relation,,,hasExamination,,,Examination,name,vesicles with erythematous base on tonsillar pillars,herpangina
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,toxoplasmosis of brain,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,gastroenteritis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,esophagitis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,chlamydia,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,gonorrhoea.,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,chronic vaginal candidiasis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,blood transfusion,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,recurrent herpes simplex,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,recurrent bacterial infections,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,candidiasis of respiratory tract,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,candidiasis of esophagus,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,cervical cancer,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,cardiomyopathy,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,cryptosporidiosis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,cytomegalovirus disease,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,histoplasmosis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,isosporiasis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,burkitt lymphoma,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,pneumocystis jirovecii,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,progressive multifocal leukoencephalopathy,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,multiple bacterial infections,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,coccidioidomycosis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,kaposi's sarcoma,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,colitis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,sore throat,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,arthralgia,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,diarrhoea,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,anorexia,human immunodeficiency virus infection
+Symptom,name,night sweats,Relation,,,hasAttribute,,,Attribute,name,fever,human immunodeficiency virus infection
+Symptom,name,diarrhoea,Relation,,,hasAttribute,,,Attribute,name,more than 1 month,human immunodeficiency virus infection
+Symptom,name,diarrhoea,Relation,,,hasAttribute,,,Attribute,name,intermittent,human immunodeficiency virus infection
+Symptom,name,dyspnea,Relation,,,hasAttribute,,,Attribute,name,exertion,human immunodeficiency virus infection
+Symptom,name,cough,Relation,,,hasAttribute,,,Attribute,name,dry,human immunodeficiency virus infection
+Attribute,name,fever,Relation,,,associatedWith,,,Disease,name,human immunodeficiency virus infection,human immunodeficiency virus infection
+Attribute,name,more than 1 month,Relation,,,associatedWith,,,Disease,name,human immunodeficiency virus infection,human immunodeficiency virus infection
+Attribute,name,intermittent,Relation,,,associatedWith,,,Disease,name,human immunodeficiency virus infection,human immunodeficiency virus infection
+Attribute,name,exertion,Relation,,,associatedWith,,,Disease,name,human immunodeficiency virus infection,human immunodeficiency virus infection
+Attribute,name,dry,Relation,,,associatedWith,,,Disease,name,human immunodeficiency virus infection,human immunodeficiency virus infection
+Attribute,name,fever,Relation,,,hasCategory,,,AttributeCategory,name,associated with,human immunodeficiency virus infection
+Attribute,name,more than 1 month,Relation,,,hasCategory,,,AttributeCategory,name,duration,human immunodeficiency virus infection
+Attribute,name,intermittent,Relation,,,hasCategory,,,AttributeCategory,name,frequency,human immunodeficiency virus infection
+Attribute,name,exertion,Relation,,,hasCategory,,,AttributeCategory,name,triggered by,human immunodeficiency virus infection
+Attribute,name,dry,Relation,,,hasCategory,,,AttributeCategory,name,quality,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,percutaneous needle prick injury,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,high maternal viral load during pregnancy,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,human immunodeficiency virus infection in mother at time of pregnancy,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,chronic herpes simplex virus type 2 infection,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,unexplained diarrhea,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,multidermal herpes zoster,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,seborrhoeic dermatitis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,tuberculosis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,chronic progressive herpes infection,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,cholecystitis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,tuberculosis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,vaginal candidiasis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,mild cognitive impairment,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,mild impairment with motor deficits,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,pallor,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,perirectal lesions,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,rectal lesions,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,anal lesions,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,fever,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,splenomegaly,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,hepatomegaly,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,fatigue,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,peripheral neuropathy,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,severe cognitive impairment,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,silent chest on auscultation,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,retinal lesions,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,"poor oral hygiene with loosening of teeth, bleeding of gums, bad odour",human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,pink patch in the mouth,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,violaceous patch in the mouth,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,violaceous patch on the skin,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,pink patch on the skin,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,painless enlarged nodes,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,generalised lymphadenopathy,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,changes in neuropsychiatric function,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,anxiety,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,depression,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,cyanosis on exertion,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,severe cognitive impairment with motor deficits,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,retinitis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,generalised lymphadenopathy,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,pelvic inflammatory disease,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,anemia,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,thrombocytopenia,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,neutropenia,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,scabies,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,recent admission for management of an infectious disease,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,oral ulcers,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,kaposi's sarcoma,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,needle sharing with intravenous drug use,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,substance abuse using needles,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,unprotected receptive anal intercourse,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,unprotected receptive penile-vaginal sexual intercourse,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,unprotected sexual activity,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,progestin only injectable contraceptives,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,fever with night sweatsmore than 1 month in durationwith no response to antibiotics,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,unexplained involuntary weight loss,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,pruritic papular eruptions,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,fungal skin infections,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,nail infections,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,skin rashes,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,oral thrush,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,oral hairy leukoplakia,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,angular cheilitis,human immunodeficiency virus infection
+Symptom,name,anorexia,Attribute,synonym,"anorexia, reduced appetite",,,,,,,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasExamination,,,Examination,name,"painless enlarged nodes, in 2 or more non-contiguous sites of >1 cm for more than 3 months.",human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,cholangitis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,malaise,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,historyOf,,,PastHistory,name,syphilis,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,neck stiffness,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,photophobia,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,scaly skin condition,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,diarrhoea,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,diarrhoea,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,night sweats,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,dyspnea,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,cough,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,vomiting,human immunodeficiency virus infection
+Disease,name,human immunodeficiency virus infection,Relation,,,hasSymptom,,,Symptom,name,headache,human immunodeficiency virus infection
+Disease,name,measles,Relation,,,hasExamination,,,Examination,name,periorbital edema,measles
+Disease,name,measles,Relation,,,hasExamination,,,Examination,name,conjunctivitis,measles
+Disease,name,measles,Relation,,,hasExamination,,,Examination,name,feversubsides after appearance of rash,measles
+Disease,name,measles,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to individual with measles.,measles
+Disease,name,measles,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to measles-endemic area,measles
+Disease,name,measles,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to measles virus,measles
+Disease,name,measles,Relation,,,historyOf,,,PastHistory,name,no prior immunization against measles,measles
+Disease,name,measles,Relation,,,hasSymptom,,,Symptom,name,pink eye,measles
+Attribute,name,mild,Relation,,,associatedWith,,,Disease,name,measles,measles
+Symptom,name,pruritus,Relation,,,hasAttribute,,,Attribute,name,mild,measles
+Disease,name,measles,Relation,,,hasExamination,,,Examination,name,red spots often with a bluish-white central dot on erythematous buccal mucosa,measles
+Disease,name,measles,Relation,,,hasSymptom,,,Symptom,name,photophobia,measles
+Disease,name,measles,Relation,,,hasSymptom,,,Symptom,name,prostration,measles
+Disease,name,measles,Relation,,,hasSymptom,,,Symptom,name,pruritus,measles
+Disease,name,measles,Relation,,,hasSymptom,,,Symptom,name,rhinorrhea,measles
+Attribute,name,mild,Relation,,,hasCategory,,,AttributeCategory,name,severity,measles
+Disease,name,measles,Relation,,,hasExamination,,,Examination,name,maculopapular rashrash beginning on the head and spreading to the trunk and extremities over a few days.,measles
+Disease,name,measles,Relation,,,hasSymptom,,,Symptom,name,cough,measles
+Disease,name,measles,Relation,,,hasExamination,,,Examination,name,brownish maculopapular rash,measles
+Disease,name,measles,Relation,,,hasExamination,,,Examination,name,maculopapular rash becomes confluent,measles
+Disease,name,measles,Relation,,,hasExamination,,,Examination,name,whitish lesions on erythematous buccal mucosa,measles
+Disease,name,measles,Relation,,,hasSymptom,,,Symptom,name,coryza,measles
+Disease,name,measles,Relation,,,hasExamination,,,Examination,name,"erythematous, maculopapular rash",measles
+Disease,name,monkeypox,Relation,,,hasExamination,,,Examination,name,skin lesions occur in crops,monkeypox
+Disease,name,monkeypox,Relation,,,hasExamination,,,Examination,name,pustules become crusted,monkeypox
+Disease,name,monkeypox,Relation,,,hasExamination,,,Examination,name,round pustules tense pustules deeply embedded pustules,monkeypox
+Disease,name,monkeypox,Relation,,,hasExamination,,,Examination,name,maculopapular skin lesions that turn into vesicles and then pustules,monkeypox
+Disease,name,monkeypox,Relation,,,hasExamination,,,Examination,name,lymphadenopathy,monkeypox
+Disease,name,monkeypox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,contact with wound exudate of infected person,monkeypox
+Disease,name,monkeypox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,contact with rodents,monkeypox
+Disease,name,monkeypox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,contact with salivary exudate of infected person,monkeypox
+Disease,name,monkeypox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,"contact with infected fluids, salivary or wound exudate",monkeypox
+Disease,name,monkeypox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to africa,monkeypox
+Disease,name,monkeypox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,resident of africa,monkeypox
+Disease,name,monkeypox,Relation,,,hasExamination,,,Examination,name,fever,monkeypox
+Disease,name,monkeypox,Relation,,,hasSymptom,,,Symptom,name,headache,monkeypox
+Disease,name,monkeypox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,contact with respiratory exudate of infected person,monkeypox
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,somnolence,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,difficulty in eating,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,pain,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,pain,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,pain,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,malaise,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,headache,mumps
+Attribute,name,parotid region,Relation,,,associatedWith,,,Disease,name,mumps,mumps
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,mumps,mumps
+Attribute,name,chewing,Relation,,,hasCategory,,,AttributeCategory,name,aggravated by,mumps
+Attribute,name,parotid region,Relation,,,hasCategory,,,AttributeCategory,name,location,mumps
+Attribute,name,swallowing,Relation,,,hasCategory,,,AttributeCategory,name,aggravated by,mumps
+Attribute,name,unilateral,Relation,,,hasCategory,,,AttributeCategory,name,location,mumps
+Attribute,name,sudden,Relation,,,hasCategory,,,AttributeCategory,name,onset,mumps
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,mumps
+Disease,name,mumps,Relation,,,historyOf,,,PastHistory,name,anorexia,mumps
+Disease,name,mumps,Relation,,,historyOf,,,PastHistory,name,acute lymphoblastic leukaemia,mumps
+Disease,name,mumps,Relation,,,historyOf,,,PersonalAndSocialHistory,name,contact with infected person,mumps
+Disease,name,mumps,Relation,,,historyOf,,,PersonalAndSocialHistory,name,living in congregate settings,mumps
+Disease,name,mumps,Relation,,,historyOf,,,PersonalAndSocialHistory,name,living in closed communities,mumps
+Disease,name,mumps,Relation,,,historyOf,,,PersonalAndSocialHistory,name,unvaccinated status,mumps
+Disease,name,mumps,Relation,,,historyOf,,,PersonalAndSocialHistory,name,international traveller,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,dysphagia,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,difficulty in talking,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,neck swelling beneath the jaw,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,scrotal pain,mumps
+Attribute,name,chewing,Relation,,,associatedWith,,,Disease,name,mumps,mumps
+Symptom,name,nausea,Relation,,,hasAttribute,,,Attribute,name,severe,mumps
+Symptom,name,nausea,Relation,,,hasAttribute,,,Attribute,name,sudden,mumps
+Symptom,name,scrotal pain,Relation,,,hasAttribute,,,Attribute,name,unilateral,mumps
+Symptom,name,pain,Relation,,,hasAttribute,,,Attribute,name,swallowing,mumps
+Symptom,name,pain,Relation,,,hasAttribute,,,Attribute,name,parotid region,mumps
+Symptom,name,pain,Relation,,,hasAttribute,,,Attribute,name,chewing,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,difficulty in hearing,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,back pain,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,abdominal pain,mumps
+Disease,name,mumps,Relation,,,historyOf,,,PersonalAndSocialHistory,name,healthcare worker,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,flank pain,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,myalgia,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,epigastric pain,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,nausea,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,nausea,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,seizures,mumps
+Attribute,name,unilateral,Relation,,,associatedWith,,,Disease,name,mumps,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,photophobia,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,neck stiffness,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,vomiting,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,headache,mumps
+Disease,name,mumps,Relation,,,hasSymptom,,,Symptom,name,anorexia,mumps
+Disease,name,mumps,Relation,,,historyOf,,,PersonalAndSocialHistory,name,close-contact living,mumps
+Attribute,name,sudden,Relation,,,associatedWith,,,Disease,name,mumps,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,feverlow- to moderate-gradeduration 24 to 72 hours,mumps
+Symptom,name,difficulty in hearing,Attribute,synonym,difficulty in hearing,,,,,,,mumps
+Symptom,name,anorexia,Attribute,synonym,"anorexia, reduced appetite",,,,,,,mumps
+Symptom,name,neck stiffness,Attribute,synonym,stiff neck,,,,,,,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,mastitis,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,sensorineural hearing loss,mumps
+Disease,name,mumps,Relation,,,historyOf,,,PersonalAndSocialHistory,name,missed vaccination,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,coma,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,orchitis,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,salivary gland swelling with redness and tenderness,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,parotid swelling,mumps
+Attribute,name,swallowing,Relation,,,associatedWith,,,Disease,name,mumps,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,erythema of the scrotum,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,skin over the glands is tense and shiny,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,suprasternal edema,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,parotitis,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,unilateral swelling of parotid gland,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,warmth of the scrotum,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,glandular swellingextremely tender glands,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,swollen tongue,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,tenderness of the scrotum,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,edema of the scrotum,mumps
+Disease,name,mumps,Relation,,,hasExamination,,,Examination,name,bilateral swelling of parotid gland,mumps
+Disease,name,murine typhus,Relation,,,hasSymptom,,,Symptom,name,body pain,murine typhus
+Disease,name,murine typhus,Relation,,,hasSymptom,,,Symptom,name,headache,murine typhus
+Disease,name,murine typhus,Relation,,,hasSymptom,,,Symptom,name,oliguria,murine typhus
+Disease,name,murine typhus,Relation,,,hasSymptom,,,Symptom,name,seizures,murine typhus
+Disease,name,murine typhus,Relation,,,hasSymptom,,,Symptom,name,chest pain,murine typhus
+Disease,name,murine typhus,Relation,,,hasSymptom,,,Symptom,name,cough,murine typhus
+Disease,name,murine typhus,Relation,,,hasSymptom,,,Symptom,name,abdominal pain,murine typhus
+Disease,name,murine typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to cats,murine typhus
+Disease,name,murine typhus,Relation,,,hasSymptom,,,Symptom,name,rigors and chills,murine typhus
+Disease,name,murine typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to rats,murine typhus
+Disease,name,murine typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to wild opossums,murine typhus
+Disease,name,murine typhus,Relation,,,hasExamination,,,Examination,name,weak pulses,murine typhus
+Disease,name,murine typhus,Relation,,,hasExamination,,,Examination,name,pale blue skin,murine typhus
+Disease,name,murine typhus,Relation,,,hasExamination,,,Examination,name,ecchymosis,murine typhus
+Disease,name,murine typhus,Relation,,,hasExamination,,,Examination,name,gangrene,murine typhus
+Disease,name,murine typhus,Relation,,,hasExamination,,,Examination,name,tachypnea,murine typhus
+Disease,name,murine typhus,Relation,,,hasExamination,,,Examination,name,hypotension,murine typhus
+Disease,name,murine typhus,Relation,,,hasExamination,,,Examination,name,cold extremities,murine typhus
+Disease,name,murine typhus,Relation,,,hasExamination,,,Examination,name,sparse maculopapular rash,murine typhus
+Disease,name,murine typhus,Relation,,,hasExamination,,,Examination,name,fever,murine typhus
+Disease,name,murine typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to cat fleas,murine typhus
+Disease,name,murine typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to mice,murine typhus
+Disease,name,murine typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to rat fleas,murine typhus
+Disease,name,murine typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to rodents,murine typhus
+Disease,name,murine typhus,Relation,,,hasExamination,,,Examination,name,splenomegaly,murine typhus
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,thickened nail with subungual hyperkeratosis,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,distal lateral subungual onychomycosis,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,"white,yellow to brown nail discoloration",onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,small white speckled patches on the surface of the nail plate with crumbling nail,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,deformed toenails,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,the nail plate becomes white proximally and remains normal distally in proximal subungual onychomycosis,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,milky white nail plate,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,unilateral nail deformity,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,nail deformity of 3rd toe nail,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,chalky white scale beneath the nail surface,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,nail deformity of 5th toe nail,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,nail deformity of 1st toe nail,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,discoloured toenails,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,nail separates from the nail bed,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,public bathing areas while barefoot,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,nails thicken and yellow,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PastHistory,name,tinea pedis,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PastHistory,name,preexisting nail dystrophy like in patients with psoriasis,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PastHistory,name,diabetes mellitus,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PastHistory,name,peripheral vascular disease,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PastHistory,name,immunocompromised,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PastHistory,name,human immunodeficiency virus infection,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PastHistory,name,recurrent tinea pedis,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,keratin and debris accumulate distally and underneath nail,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PastHistory,name,deformities of the feet,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to someone with tinea pedis,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to someone with onychomycosis,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to someone with tinea pedis through public bathing,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,deformed white nails,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,deformed yellow nails,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,discolored white nails,onychomycosis
+Disease,name,onychomycosis,Relation,,,hasExamination,,,Examination,name,discolored yellow nails,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PastHistory,name,recurrent trauma to the skin,onychomycosis
+Disease,name,onychomycosis,Relation,,,historyOf,,,PastHistory,name,chronic mucocutaneous candidiasis,onychomycosis
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,low grade fever,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,abnormal vaginal bleeding,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasSymptom,,,Symptom,name,lower abdominal pain,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasSymptom,,,Symptom,name,dysuria,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasSymptom,,,Symptom,name,dyspareunia,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasSymptom,,,Symptom,name,abnormal vaginal bleeding,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasSymptom,,,Symptom,name,nausea,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasSymptom,,,Symptom,name,vomiting,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasSymptom,,,Symptom,name,back pain,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasSymptom,,,Symptom,name,deep dyspareunia,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,historyOf,,,PastHistory,name,sexually transmitted disease,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,historyOf,,,PastHistory,name,chlamydial infection,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,abdominal pain,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,historyOf,,,PastHistory,name,previous pelvic inflammatory disease,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,historyOf,,,PastHistory,name,bacterial vaginosis,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,historyOf,,,PersonalAndSocialHistory,name,young age at onset of sexual activity,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasSymptom,,,Symptom,name,lower abdominal pain,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,historyOf,,,PersonalAndSocialHistory,name,unprotected sexual intercourse with multiple sexual partners,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,historyOf,,,PersonalAndSocialHistory,name,intercourse during menstruation,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,historyOf,,,PersonalAndSocialHistory,name,vaginal douching,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,historyOf,,,PersonalAndSocialHistory,name,low socioeconomic status,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,historyOf,,,PersonalAndSocialHistory,name,smoking,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,uterine tenderness,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,cervical motion tenderness,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,adnexal tenderness,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,mucopurulent cervical discharge,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,mucopurulent vaginal discharge,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,fever >101°f,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,cervix appears red and bleeds easily,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,mucopurulent discharge yellow green discharge from endocervical canal,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,abdominal guarding,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,rebound tenderness,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,historyOf,,,PersonalAndSocialHistory,name,use of intrauterine device,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasSymptom,,,Symptom,name,lower abdominal pain,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,historyOf,,,PastHistory,name,gonorrhoea infection,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,abnormal vaginal bleeding,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,abnormal vaginal bleeding,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,abnormal vaginal itching,pelvic inflammatory disease
+Disease,name,pelvic inflammatory disease,Relation,,,hasExamination,,,Examination,name,abdominal pain,pelvic inflammatory disease
+Disease,name,poliomyelitis,Relation,,,hasExamination,,,Examination,name,dry mucous membranes,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasSymptom,,,Symptom,name,vomiting,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasSymptom,,,Symptom,name,malaise,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasSymptom,,,Symptom,name,fatigue,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasSymptom,,,Symptom,name,nausea,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasSymptom,,,Symptom,name,diarrhoea,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasSymptom,,,Symptom,name,headache,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasSymptom,,,Symptom,name,photophobia,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasSymptom,,,Symptom,name,sore throat,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasSymptom,,,Symptom,name,abdominal pain,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,historyOf,,,PastHistory,name,lack of vaccination,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,historyOf,,,PastHistory,name,oral polio vaccination,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasSymptom,,,Symptom,name,diarrhoea,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,poor sanitation,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,historyOf,,,PastHistory,name,immunosuppressive state,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasExamination,,,Examination,name,atrophy of the muscles of the affected limb,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasExamination,,,Examination,name,"significant loss of motor function of extremities, especially the legs",poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasExamination,,,Examination,name,asymmetrical lower limb weakness,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasExamination,,,Examination,name,flaccid paralysis,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasExamination,,,Examination,name,respiratory muscle atrophy,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasExamination,,,Examination,name,respiratory distress,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasExamination,,,Examination,name,asymmetrical lower limb flaccidity,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasExamination,,,Examination,name,muscle atrophy of affected limb,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasExamination,,,Examination,name,decreased tendon reflexes of affected limb,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasExamination,,,Examination,name,decreased tone and motor function of affected limb,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,poverty,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel in area endemic for poliomyelitis,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,hasExamination,,,Examination,name,mild fever,poliomyelitis
+Disease,name,poliomyelitis,Relation,,,historyOf,,,PersonalAndSocialHistory,name,residence in area endemic for poliomyelitis,poliomyelitis
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,crusted pustules,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,pustulespustules are tense pustules appear deeply embedded pustules all at same stage,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,scanty generalised blistering rash,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,vesicles vesicles are all at same stage,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,vesicles more numerous on face and limbs than body,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,maculopapular lesions on armsrash spreads to trunk and legs,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,maculopapular lesions on facerash spreads to trunk and legs,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,maculopapular lesions on the oropharyngeal mucosarash spreads to trunk and legs,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,generalized erythema,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,fever,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,ulceration of oropharyngeal lesions,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,mucosal hemorrhage,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,cervical lymphadenopathy,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,macules on the face after 1 to 3 days of fever,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,macules change to papules in 1 to 2 days,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,papules change to pustules in 1 to 2 days,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,papules change to pustules in 1 to 2 days,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,pustules umbilicate followed by scabbing,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,lymphadenopathy,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,axillary lymphadenopathy,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,pharyngitis,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,subconjunctival hemorrhages,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,delirium,pox infection
+Disease,name,pox infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,sub saharan africa,pox infection
+Disease,name,pox infection,Relation,,,hasExamination,,,Examination,name,"confluent, flat, non pustular skin lesions.",pox infection
+Disease,name,pox infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to wildlife,pox infection
+Symptom,name,hematuria,Attribute,synonym,blood in urinebloody urine,,,,,,,pox infection
+Disease,name,pox infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,bioterrorism,pox infection
+Symptom,name,epistaxis,Attribute,synonym,nose bleed,,,,,,,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,myalgia,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,chills,pox infection
+Disease,name,pox infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to individuals with monkeypox,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,headache,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,back pain,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,malaise,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,abdominal pain,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,vomiting,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,rash usually starts 1 to 3 days after the onset of fever,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,depressed scar in skin once scab falls off,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,epistaxis,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,hematuria,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,hematochezia,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,rigors,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,convulsions,pox infection
+Disease,name,pox infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,contact with contaminated clothing,pox infection
+Disease,name,pox infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,contact with contaminated bed linens,pox infection
+Disease,name,pox infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,contact with fomites from an infected person,pox infection
+Disease,name,pox infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,contact with an infected person,pox infection
+Disease,name,pox infection,Relation,,,historyOf,,,PastHistory,name,metrorrhagia,pox infection
+Disease,name,pox infection,Relation,,,hasSymptom,,,Symptom,name,diarrhoea,pox infection
+Attribute,name,extreme,Relation,,,hasCategory,,,AttributeCategory,name,severity,pox infection
+Symptom,name,malaise,Relation,,,hasAttribute,,,Attribute,name,extreme,pox infection
+Symptom,name,abdominal pain,Relation,,,hasAttribute,,,Attribute,name,severe,pox infection
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,pox infection
+Disease,name,pox infection,Relation,,,historyOf,,,PersonalAndSocialHistory,name,lab worker,pox infection
+Attribute,name,extreme,Relation,,,associatedWith,,,Disease,name,pox infection,pox infection
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,pox infection,pox infection
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,osteomyelitis,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,endocarditis,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,osteoarthritis,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,chronic lymphadenitis,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,lung pseudotumor,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,lung fibrosis,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,uveitis,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,optic neuritis,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,giant cell arteritis,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,culture-negative prosthetic joint infection,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,takayasu's arteritis,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,spondylodiscitis,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,chronic interstitial pneumonitis,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to birth products of animals,q fever
+Disease,name,q fever,Relation,,,historyOf,,,DrugHistory,name,chemotherapy,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,abattoir workers.,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,veterinarians,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,farm worker,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to calves,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to goats,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,residency in endemic areas,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to endemic areas,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,arterial emboli,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to farms,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to contaminated straw,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to milk of animals,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to faeces of animals,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to urine of animals,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,blood transfusion,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to sheep,q fever
+Disease,name,q fever,Relation,,,historyOf,,,DrugHistory,name,prolonged corticosteroid use,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to manure,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,pregnancy,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,prosthetic heart valves,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,vascular graft,q fever
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,severe,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,behavioural disturbances,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,seizures,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,fatigue,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,headache,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,flu-like illness,q fever
+Symptom,name,chest pain,Relation,,,hasAttribute,,,Attribute,name,pleuritic,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,dyspnea,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,seizures,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,chest pain,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,cough,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,headache,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,myalgia,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,chills,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,fatigue,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,vascular aneurysm,q fever
+Symptom,name,fatigue,Relation,,,hasAttribute,,,Attribute,name,chronic,q fever
+Attribute,name,pleuritic,Relation,,,associatedWith,,,Disease,name,q fever,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,mitral valve prolapse,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,valvular stenosis grade ≥ii,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,valve regurgitation,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,congenital heart disease,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,bicuspid aortic valve,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,rheumatic fever,q fever
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,q fever,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,renal failure,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,immunosuppressive state,q fever
+Attribute,name,chronic,Relation,,,hasCategory,,,AttributeCategory,name,duration,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,laboratory personnel,q fever
+Attribute,name,pleuritic,Relation,,,hasCategory,,,AttributeCategory,name,quality,q fever
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,q fever
+Attribute,name,chronic,Relation,,,associatedWith,,,Disease,name,q fever,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PastHistory,name,human immunodeficiency virus infection,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,military personnel stationed in iraq,q fever
+Disease,name,q fever,Relation,,,hasSymptom,,,Symptom,name,malaise,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,military personnel stationed in afghanistan,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,psychiatric disturbances,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,coma,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,erythema nodosum,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,purpuric rash,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,maculopapular rash,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,raised jugular venous pulse,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,hepatomegaly,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,peripheral edema,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,heart murmur,q fever
+Disease,name,q fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,soldiers,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,erythema nodosum,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,coma,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,inspiratory crackles,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,rhonchi,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,wheezing,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,sudden onset feverhigh grade14 to 57 days in duration,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,exanthems,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,maculopapular,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,purpuric rash,q fever
+Disease,name,q fever,Relation,,,hasExamination,,,Examination,name,hepatomegaly,q fever
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to the tropics,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to northern australia,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,resident of southeast asia,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,resident of oceania,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,resident of northern australia,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,game safari in africa,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,"exposure to natural vegetation exposure to forests, exposure to scrub, exposure to bush",rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasExamination,,,Examination,name,vesicular rash,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasExamination,,,Examination,name,fever,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasExamination,,,Examination,name,macular rash,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasExamination,,,Examination,name,papular rash,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to oceania,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasExamination,,,Examination,name,petechial rash,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasExamination,,,Examination,name,eschar,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasExamination,,,Examination,name,regional lymphadenopathy,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasExamination,,,Examination,name,hepatosplenomegaly,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to cat fleasexposure to dog fleas,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to southeast asia,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,homeless,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,tick bites,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasSymptom,,,Symptom,name,headache,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasSymptom,,,Symptom,name,generalized myalgia,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasSymptom,,,Symptom,name,fatigue,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasSymptom,,,Symptom,name,arthralgia,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasSymptom,,,Symptom,name,lethargy.,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasSymptom,,,Symptom,name,abdominal pain,rickettsial diseases
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,severe,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,mite bites,rickettsial diseases
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,rickettsial diseases,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasExamination,,,Examination,name,tachypnoea,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to human body lice,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,living with someone with body lice,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,poverty,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,resident of cold climates,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,substandard housing,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to rodents and their fleas,rickettsial diseases
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,historyOf,,,PastHistory,name,human body louse infestation,rickettsial diseases
+Disease,name,rickettsial diseases,Relation,,,hasSymptom,,,Symptom,name,having been bitten by something,rickettsial diseases
+Symptom,name,diaphoresis,Relation,,,hasAttribute,,,Attribute,name,fever,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to korea,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to russia,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to united states,rickettsialpox
+Attribute,name,fever,Relation,,,hasCategory,,,AttributeCategory,name,associated with,rickettsialpox
+Attribute,name,fever,Relation,,,hasCategory,,,AttributeCategory,name,associated with,rickettsialpox
+Attribute,name,fever,Relation,,,hasCategory,,,AttributeCategory,name,associated with,rickettsialpox
+Attribute,name,fever,Relation,,,hasCategory,,,AttributeCategory,name,associated with,rickettsialpox
+Attribute,name,fever,Relation,,,associatedWith,,,Disease,name,rickettsialpox,rickettsialpox
+Attribute,name,fever,Relation,,,associatedWith,,,Disease,name,rickettsialpox,rickettsialpox
+Attribute,name,fever,Relation,,,associatedWith,,,Disease,name,rickettsialpox,rickettsialpox
+Attribute,name,fever,Relation,,,associatedWith,,,Disease,name,rickettsialpox,rickettsialpox
+Attribute,name,fever,Relation,,,associatedWith,,,Disease,name,rickettsialpox,rickettsialpox
+Symptom,name,myalgia,Relation,,,hasAttribute,,,Attribute,name,fever,rickettsialpox
+Symptom,name,photophobia,Relation,,,hasAttribute,,,Attribute,name,fever,rickettsialpox
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,fever,rickettsialpox
+Symptom,name,chills,Relation,,,hasAttribute,,,Attribute,name,fever,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,hasSymptom,,,Symptom,name,myalgia,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,hasSymptom,,,Symptom,name,photophobia,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,hasSymptom,,,Symptom,name,headache,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,hasSymptom,,,Symptom,name,diaphoresis,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,hasSymptom,,,Symptom,name,chills,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,travel to africa,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,residence in united states,rickettsialpox
+Attribute,name,fever,Relation,,,hasCategory,,,AttributeCategory,name,associated with,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,residence in korea,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,residence in russia,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,hasExamination,,,Examination,name,"generalized maculopapular rash with intraepidermal vesicles appears, sparing the palms and soles",rickettsialpox
+Disease,name,rickettsialpox,Relation,,,hasExamination,,,Examination,name,ulcer leaves scar on healing,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,hasExamination,,,Examination,name,regional lymphadenopathy,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,hasExamination,,,Examination,name,a small ulcer with a dark crust on skin,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,hasExamination,,,Examination,name,small papule 1 to 1.5 cm in diameter,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,hasExamination,,,Examination,name,small papule turns into small ulcer with a dark crust,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,hasExamination,,,Examination,name,eschar,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,contact with mice,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to chiggers,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to mites,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,historyOf,,,PersonalAndSocialHistory,name,residence in africa,rickettsialpox
+Disease,name,rickettsialpox,Relation,,,hasExamination,,,Examination,name,fever 1 week after eschar forms,rickettsialpox
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,small blanching erythematous macules on the ankles and wrists,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasSymptom,,,Symptom,name,malaise,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,maculopapular rash with petechiae,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,rash maculopapular rashpetechial rash,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,fever,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,recent exposure to rural area,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasSymptom,,,Symptom,name,tick bite,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasSymptom,,,Symptom,name,headache,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasSymptom,,,Symptom,name,myalgia,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasSymptom,,,Symptom,name,nausea,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasSymptom,,,Symptom,name,vomiting,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,tick exposure,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to dogs exposure to pets that spend time outdoors,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,recent camping within 2 weeksrecent fishing trip within 2 weeks,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,returned travellers from an endemic area for rocky mountain spotted fever within 2 weeks,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasSymptom,,,Symptom,name,seizures,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasSymptom,,,Symptom,name,diarrhoea,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasSymptom,,,Symptom,name,abdominal pain,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasSymptom,,,Symptom,name,somnolence,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,small blanching erythematous macules on the ankles and wrists spreading proximally to the arms and legs,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,recent recreational outdoor activities,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,"small blanching erythematous macules on the ankles and wrists spreading proximally to the arms and legs, and palms and soles",rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,"small blanching erythematous macules on the ankles and wrists spreading proximally to the arms and legs, and palms and soles involving the trunk",rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,shock,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,mental status impairment,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,conjunctivitis,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,lymphadenopathy,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,peripheral edema,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,periorbital edema,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,hepatosplenomegaly,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,jaundice,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,focal neurologic deficits,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,seizures,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,coma,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,recent occupational outdoor activities,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,spleen tip is palpable,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,conjunctivitis,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,lymphadenopathy,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,peripheral edema,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,meningismus,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,splenomegaly,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,altered mental status,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,hepatomegaly,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,jaundice,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,hasExamination,,,Examination,name,conjunctival hyperaemia,rocky mountain spotted fever
+Disease,name,rocky mountain spotted fever,Relation,,,historyOf,,,PersonalAndSocialHistory,name,residence in rural area,rocky mountain spotted fever
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,pharyngitis,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,scattered petechiae,rubella
+Disease,name,rubella,Relation,,,hasSymptom,,,Symptom,name,arthralgia,rubella
+Disease,name,rubella,Relation,,,hasSymptom,,,Symptom,name,malaise,rubella
+Disease,name,rubella,Relation,,,hasSymptom,,,Symptom,name,cough,rubella
+Disease,name,rubella,Relation,,,hasSymptom,,,Symptom,name,sore throat,rubella
+Disease,name,rubella,Relation,,,hasSymptom,,,Symptom,name,joint stiffness,rubella
+Disease,name,rubella,Relation,,,historyOf,,,FamilyHistory,name,unknown vaccination status in mother,rubella
+Disease,name,rubella,Relation,,,historyOf,,,PersonalAndSocialHistory,name,incomplete immunization,rubella
+Disease,name,rubella,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to infectious person,rubella
+Disease,name,rubella,Relation,,,historyOf,,,PersonalAndSocialHistory,name,international travel,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,"rash erythematous rash discrete rashmaculopapular rash rash mildly pruritic,rash is accentuated by heat.rash begins on the face and spreads from the head to the feetrash persists for 3 to 4 days",rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,palatal petechiae,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,petechiae with rash,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,low-grade fever,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,postauricular lymphadenopathynon-tender lymphadenopathy mobile lymphadenopathy,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,posterior cervical lymphadenopathynon-tender lymphadenopathy mobile lymphadenopathy,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,occipital lymph lymphadenopathynon-tender mobile.,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,arthritis in fingers,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,arthritis in wrists,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,arthritis in knees,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,conjunctivitis,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,mild rhinitis,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,rashpinpoint appearancereddish flush,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,generalised maculopapular rash in babies,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,mild hepatosplenomegaly,rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,"numerous purplish, firm, non-blanching skin nodules",rubella
+Disease,name,rubella,Relation,,,hasExamination,,,Examination,name,grade 3 continuous murmur audible at the left infraclavicular area,rubella
+Disease,name,scrub typhus,Relation,,,hasSymptom,,,Symptom,name,cough,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,ruptured vesicles at site of chigger bite,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasSymptom,,,Symptom,name,headache,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,hypotension,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasSymptom,,,Symptom,name,chills,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,splenomegaly,scrub typhus
+Disease,name,scrub typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,resident of china,scrub typhus
+Disease,name,scrub typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,resident of india,scrub typhus
+Disease,name,scrub typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,resident of northern australia,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,sudden onset feverhigh grade greater than 2 weeks in durationfalls gradually over several days,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,generalized lymphadenopathy,scrub typhus
+Disease,name,scrub typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,resident of korea,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,regional lymphadenopathy,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,"red lesion, indurated lesion lesion about 1 cm in diameter lesion at site of chigger bite",scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,vesicles at site of chigger bite,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,stupor,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,black scab at site of chigger bite,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,conjunctival injection,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,macular rash on the trunk during the 5th to 8th day of feverextending to the arms and legsdisappear rapidly,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,macular rash on the trunk during the 5th to 8th day of feverextending to the arms and legs becomes maculopapular and intensely colored,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,tachycardia,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,eschar at the site of chigger bite,scrub typhus
+Disease,name,scrub typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,resident of japan,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasExamination,,,Examination,name,delirium,scrub typhus
+Disease,name,scrub typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,stay in india,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasSymptom,,,Symptom,name,headache,scrub typhus
+Disease,name,scrub typhus,Relation,,,hasSymptom,,,Symptom,name,muscular twitching,scrub typhus
+Symptom,name,chills,Relation,,,hasAttribute,,,Attribute,name,sudden,scrub typhus
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,sudden,scrub typhus
+Symptom,name,headache,Relation,,,hasAttribute,,,Attribute,name,severe,scrub typhus
+Attribute,name,sudden,Relation,,,associatedWith,,,Disease,name,scrub typhus,scrub typhus
+Attribute,name,sudden,Relation,,,associatedWith,,,Disease,name,scrub typhus,scrub typhus
+Attribute,name,severe,Relation,,,associatedWith,,,Disease,name,scrub typhus,scrub typhus
+Attribute,name,sudden,Relation,,,hasCategory,,,AttributeCategory,name,onset,scrub typhus
+Attribute,name,sudden,Relation,,,hasCategory,,,AttributeCategory,name,onset,scrub typhus
+Attribute,name,severe,Relation,,,hasCategory,,,AttributeCategory,name,severity,scrub typhus
+Disease,name,scrub typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,stay in northern australia,scrub typhus
+Disease,name,scrub typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,chigger bite,scrub typhus
+Disease,name,scrub typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,exposure to rural rodents,scrub typhus
+Disease,name,scrub typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,stay in japan,scrub typhus
+Disease,name,scrub typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,stay in korea,scrub typhus
+Disease,name,scrub typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,stay in china,scrub typhus
+Disease,name,scrub typhus,Relation,,,historyOf,,,PersonalAndSocialHistory,name,mite bite,scrub typhus
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasSymptom,,,Symptom,name,diminished performance in schoolwork,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasSymptom,,,Symptom,name,forgetfulness,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasSymptom,,,Symptom,name,temper tantrums,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasSymptom,,,Symptom,name,distractibility,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasSymptom,,,Symptom,name,sleeplessness,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasSymptom,,,Symptom,name,generalized seizures,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasSymptom,,,Symptom,name,dysphagia,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasSymptom,,,Symptom,name,speech deterioration,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasSymptom,,,Symptom,name,intellectual decline,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasExamination,,,Examination,name,pulse disturbances,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasExamination,,,Examination,name,blood pressure disturbances,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasExamination,,,Examination,name,intermittent hyperthermia,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasExamination,,,Examination,name,focal chorioretinitis,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasExamination,,,Examination,name,muscular rigidity,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasExamination,,,Examination,name,transient opisthotonos,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasExamination,,,Examination,name,dystonic movements,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasExamination,,,Examination,name,myoclonic jerks,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasExamination,,,Examination,name,hallucinations,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,historyOf,,,PastHistory,name,measles,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasSymptom,,,Symptom,name,visual disturbance,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasSymptom,,,Symptom,name,diaphoresis,subacute sclerosing panencephalitis
+Disease,name,subacute sclerosing panencephalitis,Relation,,,hasSymptom,,,Symptom,name,blindness,subacute sclerosing panencephalitis
